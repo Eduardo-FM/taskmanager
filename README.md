@@ -1,7 +1,9 @@
-# taskmanager
+# TaskManager
 
+Sistema para gerenciamento de tarefas.
 
 Conclusão de tarefas
-Definicao de pioridade das tarefas
 
-## Versao 1.0.0
+Definição de prioridade das tarefas
+
+## Versão 1.0.0
